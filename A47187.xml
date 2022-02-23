@@ -1,0 +1,431 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popes pedigree, usurpation, &amp; abominable pride the fore-runner of His Holiness down-fall. Briefly declaring the first rising, and the ripening of popery; in a true and short collection of the the names, wicked lives, and decrees of most of the popes of Rome, their adding to, and altering the ordinances of Christ. Also fourteen questions proposed, and a friendly advice given. Rome, Rome, beware of sixty three and three; mark the number of the beast.</title>
+            <author>T. K.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47187</idno>
+            <idno type="STC">Wing K22</idno>
+            <idno type="STC">ESTC R219124</idno>
+            <idno type="EEBO-CITATION">99830646</idno>
+            <idno type="PROQUEST">99830646</idno>
+            <idno type="VID">35099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35099)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2092:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popes pedigree, usurpation, &amp; abominable pride the fore-runner of His Holiness down-fall. Briefly declaring the first rising, and the ripening of popery; in a true and short collection of the the names, wicked lives, and decrees of most of the popes of Rome, their adding to, and altering the ordinances of Christ. Also fourteen questions proposed, and a friendly advice given. Rome, Rome, beware of sixty three and three; mark the number of the beast.</title>
+                  <author>T. K.</author>
+               </titleStmt>
+               <extent>[2], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[s.l. :</pubPlace>
+                  <date>Printed in the year, of Romes great fear. 1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 27: T.K.</note>
+                  <note>Copy stained, affecting title spelling and punctuation.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popes --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35099:1"/>
+            <pb facs="tcp:35099:1"/>
+            <p>THE POPES Pedigree, Uſurpation, &amp; abominable Pride; The Fore-runner of His <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Down-fall.</p>
+            <p>Briefly declaring the firſt riſing, and the ripening of Popery; in a true and ſhort Collection of the names, wicked lives, and Decrees of moſt of the Popes of <hi>Rome,</hi> their adding to, and al<g ref="char:EOLhyphen"/>tering the Ordinan<g ref="char:EOLhyphen"/>ces of Chriſt.</p>
+            <p>Alſo fourteen Queſtions propoſed, and a friendly advice given.</p>
+            <q>
+               <bibl>John 3. 19.</bibl> 
+               <hi>And this is condemnation, that light is come in<g ref="char:EOLhyphen"/>to the world, and men love darkneſs rather than light,</hi> &amp;c.</q>
+            <p>
+               <hi>Rome, Rome,</hi> beware of ſixty three and three, Mark the number of the Beaſt.</p>
+            <p>Printed in the year, 1664. Of <hi>Romes</hi> great fear.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:35099:2"/>
+            <pb n="1" facs="tcp:35099:2"/>
+            <head>Light is ſown.</head>
+            <p>
+               <seg rend="decorInit">O</seg>UR Heavenly Sower makes all mens hearts his field by inward teaching, to beget in them an humble ſubmiſſion to his will, with all other ſpiritual fruit, <hi>Mat.</hi> 13. 3, 4. <hi>Rom.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 14. <hi>Col.</hi> 1. 6.</p>
+            <p>Secondly, Out of this field he National<g ref="char:EOLhyphen"/>ly culled the <hi>Jews</hi> for a Vineyard, by mira<g ref="char:EOLhyphen"/>cles, to outward teachings, for the aforeſaid end, in profeſſion of the <hi>Levitical</hi> Law, <hi>Deut.</hi> 7. 6, 7, 8. <hi>Iſa.</hi> 5. 1. <hi>Rom.</hi> 3. 1, 2, 3. <hi>Heb.</hi> 7. 10.</p>
+            <p>Thirdly, Out of Field and Vineyard, he perſonally culls Diſciples into Churches (as it were Gardens) by outward teaching, for the ſame end, under profeſſion of Chriſti<g ref="char:EOLhyphen"/>anity; in which profeſſion</p>
+            <p>Firſt, Chriſt only is High Prieſt, and chief Biſhop: All Diſciples, Preachers, and Hearers, are Brethren, and fellow-ſervants;
+<pb n="2" facs="tcp:35099:3"/> none to be called Lord, Maſter, or Doctor, <hi>Heb.</hi> 3. 1. 1 <hi>Pet.</hi> 5. 3, 4. <hi>Mat.</hi> 23. 8, 9, 10, 11, 12, &amp; 24. 49.</p>
+            <p>Secondly, Chriſts Command is the on<g ref="char:EOLhyphen"/>ly rule to walk by; what is impoſed more, is vain worſhip, <hi>John</hi> 15. 14. <hi>Mat.</hi> 15. 9.</p>
+            <p>Thirdly, Beſide the Ten Commands, and ſtanding Ordinances, Praver and Praiſe, he ordered Diſciples by preaching and baptizing to Diſcipliſe others in all Na<g ref="char:EOLhyphen"/>tions, and that they alſo obſerve the ſame things, which he had commanded them to enjoy his <hi>ſpiritual</hi> preſence to the worlds end, <hi>Mat.</hi> 28. 16, 17, 18, 19, 20. <hi>John</hi> 20. 23. (not meaning Spirit Baptiſm, as ſome ſay,) that is Chriſts gift, and our enjoy<g ref="char:EOLhyphen"/>ment; only water Baptiſm is his Com<g ref="char:EOLhyphen"/>mand, and our duty, and part of Diſcipli<g ref="char:EOLhyphen"/>ſing, <hi>Mat.</hi> 3. <hi>John</hi> 3. 22, 23. &amp; 4. 1. Alſo he bad them <hi>Break and eat bread, bleſſe the Cup and drink, to remember him,</hi> 1 Cor. 11. 24.</p>
+         </div>
+         <div type="part">
+            <head>Men love darkneſſe.</head>
+            <p>But contrary to expectation, his Field bore Weeds, his Vineyard wilde Grapes, <hi>Iſa.</hi> 5. And his Gardens, the chief weed, ſelfſhip.</p>
+            <pb n="3" facs="tcp:35099:3"/>
+            <p>That, culled out of his Vineyard, bore <hi>diſputings for greatneſſe,</hi> but Chriſt cut it down, and other Gardens bore the ſame weed, with buds; for <hi>Diotrephes, loving pre<g ref="char:EOLhyphen"/>heminence, prates againſt the Apoſtles, rejects the Brethren, and excludes them that received them;</hi> but <hi>John</hi> cuts it down, 3 <hi>John</hi> 9, 10.</p>
+            <p>In his Garden at <hi>Rome,</hi> it grew ſo nu<g ref="char:EOLhyphen"/>merous, and rooted ſo deep, before the A<g ref="char:EOLhyphen"/>poſtles dyed, that <hi>Paul</hi> could not fell it; wherefore he bad the faithful <hi>to mark and avoid ſuch as cauſed diviſions and offences, con<g ref="char:EOLhyphen"/>trary to received truth; becauſe pretending to ſerve Chriſt, they ſerved their own bellies, and by fair ſpeech deceived the ſimple,</hi> Rom. 16. 17, 18. And now, theſe being avoided, the faithful become Separates of Separates.</p>
+            <p>But the outſide Chriſtians claim Church<g ref="char:EOLhyphen"/>ſhip, and reckon the faithful <hi>Schiſmatiques.</hi> Yea like the fallen Tribes of <hi>Iſrael,</hi> they take to themſelves Authority to make Biſhops. For in <hi>Anno</hi> 68. they make <hi>Linus</hi> their firſt Biſhop, and he ordains. That wo<g ref="char:EOLhyphen"/>men come covered into the Aſſemblies.</p>
+            <p>Now ſelf-ſhip is knuckle high, and hath two great arms, <hi>to wit,</hi> a worldly Church, and a carnal Miniſtry. In Chriſtianity each Aſſembly is a viſible Church: And a Church could come at one time, into one
+<pb n="4" facs="tcp:35099:4"/> place, 1 <hi>Cor.</hi> 11. 20. But <hi>Linus</hi> his Church contains ſeveral Aſſemblies 2. Chriſt requires all aged men in his Churches, to watch over, and guide the younger, at leaſt by example, if they cannot by preaching; and many Elders or Watchmen were in one Aſſembly, 1 <hi>Pet.</hi> 5. 1, 2. 5. <hi>Phil.</hi> 1. 1. But this Church will have but one Bp. (not to watch, but) to rule over many Aſſem<g ref="char:EOLhyphen"/>blies.</p>
+            <p>And ſo <hi>Titus</hi> 1. 5. is turned aſide like ſoft wax. <hi>Paul</hi> bad <hi>Titus</hi> ſtay in <hi>Crete, to ſet things wanting in order,</hi> to order Watchmen <hi>to be blameleſſe, as Gods Stewards, not to be ſelf-will'd, or be ſcon angry, no wike-bibber, ſtriker, or covetous perſon;</hi> but they dare order who ſhall be their Bp. and who not; and from theſe armes of ſelf-ſhip ſprout many worldly Ordinances; for,</p>
+            <p>70. Their ſecond Bp. <hi>Anacletus</hi> ordains, That each City or Village, have a Prieſt openly made to teach, and adminiſter Sa<g ref="char:EOLhyphen"/>craments, and excommunicates ſuch as hinder viſiting Saints Sepulchres.</p>
+            <p>Chriſt makes all faithful Chriſtians a <hi>Royal Prieſthood, 1 Pet.</hi> 5. 2, 5, 9. But con<g ref="char:EOLhyphen"/>trary wiſe, he divides his Saints into Cler<g ref="char:EOLhyphen"/>gy and Laity. 2. Chriſt commiſſionated men, as Diſciples, to preach, baptize, bind,
+<pb n="5" facs="tcp:35099:4"/> or looſe, <hi>John</hi> 20. 19, 21, 23. But he bounds theſe things to his new faſhion'd Prieſts. 3. <hi>Jew-</hi>like, he hates Saints, but honours Sepulchres. And more buds yet; for <hi>Anno</hi>
+            </p>
+            <p>92. The third Bp. <hi>Clement,</hi> divides Pari<g ref="char:EOLhyphen"/>ſhes in <hi>Rome,</hi> adds Oyl and Cream to Bap<g ref="char:EOLhyphen"/>tiſme; but Infant Baptiſme is not yet thought on.</p>
+            <p>118. <hi>Alexander</hi> will have Communion-Wine mixt with Water, brings up purging water to ſprinkle people after Maſſe, to make them holy, and to be reſerved to drive the Devil out of mens houſes, and out of the hearts of the faithful; and yet not holy enough to touch holy things; for <hi>Anno</hi>
+            </p>
+            <p>130. <hi>Sextus</hi> ordains fine Linnen for Maſſe, and that Lay-men or women touch not Church-Ordinances, or hallowed things.</p>
+            <p>139. <hi>Tilliſphorus</hi> ordains three Maſſes for <hi>Chriſtmaſs</hi> day, and Lent to be faſted, and that Prieſts faſt a week longer. And the next buds are wooden Churches, and child<g ref="char:EOLhyphen"/>iſh Baptiſm; for</p>
+            <p>150. <hi>Higinus</hi> hallowed Churches, brought up Godfathers in Baptiſme, but childrens baptiſme was not yet in force, not tiſed by conſiderate people; for</p>
+            <pb n="6" facs="tcp:35099:5"/>
+            <p>
+               <hi>Pancrates</hi> a Chriſtians Son, 15 years old, was by <hi>Cornelius</hi> Catechiſed 20 dayes, and then baptized. And <hi>Pontus</hi> the ſon of <hi>Mar<g ref="char:EOLhyphen"/>chus</hi> a Chriſtian, was by Bp. <hi>Pontianus</hi> firſt inſtructed, and then baptiſed.</p>
+            <p>
+               <hi>Anno</hi> 233. And <hi>Nazarius</hi> ſon to <hi>Perpetua</hi> a Chriſtian, was firſt inſtructed, then bap<g ref="char:EOLhyphen"/>tized. And <hi>Lionella</hi> a Chriſtian had three Grand Children, <hi>Soſippus, Cleoſippus,</hi> and <hi>Me<g ref="char:EOLhyphen"/>loſippus,</hi> firſt Catechiſed, <hi>Anno</hi> 244. And thus they write: The Primitive Church uſed to baptize at Penticoſt, and all the children of the Church, which in the whole year were by the Word moved, gave in their names at <hi>Eaſter,</hi> and till <hi>Penticoſt</hi> were in<g ref="char:EOLhyphen"/>ſtructed in the rules of Faith, and then bap<g ref="char:EOLhyphen"/>tized.</p>
+            <p>
+               <hi>Auguſtine</hi> thus preach't, <hi>Juniors, Before we dipt your bodyes in ſacred water, we asked you, Be<g ref="char:EOLhyphen"/>lieve you in God the Father Allmighty? believe you in Jeſus Christ his Son, conceived of the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, born of the Virgin Mary? believe you in the Holy Ghoſt? And to each queſtion every one anſwered, I believe. This we did according to our Saviours Command,</hi> Mat. 28. <hi>&amp;c.</hi>
+            </p>
+            <p>154. <hi>Pius</hi> brought up keeping of <hi>Eaſter,</hi> ordained, That if Sacramental Wine be ſpilt, the Prieſt muſt lick it up; and brought the Font into the Church, but not ſo ſmall
+<pb n="7" facs="tcp:35099:5"/> a Font as now is; for <hi>Ciriachus Marcellus</hi> his Deacon baptizing <hi>Tobia</hi> the King of <hi>Perſia's</hi> Daughter in a ſilver Font; asked her, <hi>Tobia, believeſt thou in God the Father, Son, and Holy Ghoſt?</hi> ſhe anſwered, <hi>I believe; Ciriachus</hi> ask<g ref="char:EOLhyphen"/>ed, <hi>Believeſt thois the Reſurrection of the body?</hi> ſhe ſaid, <hi>I believe;</hi> then being dipt, and liſt<g ref="char:EOLhyphen"/>ed out of the water, ſhe ſaid, <hi>Jeſus whom Ci<g ref="char:EOLhyphen"/>riach preacheth, is God.</hi>
+            </p>
+            <p>195. <hi>Victor</hi> commands that Baptiſme be not adminiſtred till <hi>Eaſter,</hi> except need be; then at any time, and by Lay-men, or wo<g ref="char:EOLhyphen"/>men, and in hallowed, or unhallowed water.</p>
+            <p>203. <hi>Zopherimus</hi> brought up glaſs Chal<g ref="char:EOLhyphen"/>lices, becauſe Chriſts blood might ſoak in<g ref="char:EOLhyphen"/>to wood; and ordered that all called Chri<g ref="char:EOLhyphen"/>ſtians receive the Sacrament at 12 years of age. The wine is now turned bloody, but not yet confirmed for an Article. But more buds ſtill. For</p>
+            <p>218. <hi>Calextus</hi> brought up hallowing of Church yards; and <hi>
+                  <g ref="char:V">Ʋ</g>rban</hi> their 16 Bp. appoints Silver and Gold Challices.</p>
+            <p>233. <hi>Pontian</hi> ordains, That <hi>Pſalms</hi> be ſung in Churches night and day; and that none but Prieſts, may accuſe a Prieſt.</p>
+            <p>258. <hi>Steven</hi> condemns Church-robbers, as man-ſlayers.</p>
+            <pb n="8" facs="tcp:35099:6"/>
+            <p>261. <hi>Sextus</hi> 2d ordains, That the Com<g ref="char:EOLhyphen"/>munion be celebrated on an Altar. And</p>
+            <p>273. <hi>Foelix</hi> will not have it on an unhal<g ref="char:EOLhyphen"/>lowed Altar, or any unhallowed place; nor by any but a Prieſt, except need be.</p>
+            <p>275. <hi>Eutichianus</hi> bleſt new fruits, as Grapes and Beans on the Altar. And more buds ſtill. For</p>
+            <p>283. <hi>Gaius</hi> decreed none to be made Prieſt, that hath not been 1. A Door-Keeper. 2. A Reader. 3. A Conjurer. 4. A Candle-Carrier. 5. A ſub-Deacon. 6. A Deacon; and then a Prieſt.</p>
+            <p>312. <hi>Melciade</hi> their 31 Bp. brought up Biſhoping of children, as a greater Sacra<g ref="char:EOLhyphen"/>ment than Baptiſme.</p>
+            <p>314. <hi>Silveſter</hi> makes Wedneſdayes and Frydayes faſting-dayes.</p>
+            <p>And now is ſelf-ſhip grown knee-high into an Arch-Biſhop, but a Pope or univer<g ref="char:EOLhyphen"/>ſal Biſhop is not yet thought on.</p>
+            <p>336. <hi>Marchus</hi> their firſt Arch-Biſhop, brought up ſinging the <hi>Nician</hi> Creed, and <hi>Julius</hi> brought in ſinging <hi>Athanaſius</hi> Creed; and that the Bread and Wine be received ſeverally. And ſelf-ſhip buds ſtill. For</p>
+            <p>352. <hi>Liberius</hi> the third Arch-biſhop, or<g ref="char:EOLhyphen"/>dains Proceſſion againſt plague, famine, rain, or drought. And</p>
+            <pb n="9" facs="tcp:35099:6"/>
+            <p>367. <hi>Damaſus</hi> appoints <hi>Gloria Patri</hi> to end every <hi>Pſalm,</hi> and two Quires to ſing; one to ſing one verſe on one ſide, and one to ſing another verſe on th'other ſide; ſet <hi>Jerom</hi> to appoint every dayes Service, and how many <hi>Pſalms</hi> for each day, and that all do uſe that form. And more buds yet. For</p>
+            <p>385. <hi>Severius</hi> admits Monks into holy Order, un-Prieſts ſuch as marry twice, or a widow; decreed that Prieſts have not all their Orders at one time.</p>
+            <p>398. Their Arch-Biſhop <hi>Anaſtatius</hi> or<g ref="char:EOLhyphen"/>dains ſtanding when Goſpel is read.</p>
+            <p>404. <hi>Innocent</hi> their eighth Arch-Biſhop, makes Infant-Baptiſme a Law, and that the people kiſſe the Paxe, and Prieſts to kiſs each other; and that the ſick be not anoin<g ref="char:EOLhyphen"/>ted with unconſecrated oyl.</p>
+            <p>417. <hi>Zoſimus</hi> brought up Tapers.</p>
+            <p>419. <hi>Boniface</hi> a Miraculiſt, brings in fa<g ref="char:EOLhyphen"/>ſting on Saints Eves; and none to be Prieſt before 30 years of age. And more buds yet. For</p>
+            <p>423. <hi>Celeſtinus</hi> the eleventh Arch-Biſhop will have none Chriſtned, till the Prieſt by breathing, drive the Devil out of them.</p>
+            <p>461. <hi>Iberius</hi> brought in the Letany.</p>
+            <p>467. <hi>Anacetus</hi> forbad Prieſts to have heards, or long ſide-hair, but ſhaven
+<pb n="10" facs="tcp:35099:7"/> crowns, <hi>Not four corner'd like Simon Magus; but round like Simon Peter,</hi> (ſaith he) <hi>to mind them of the Crown of Glory.</hi>
+            </p>
+            <p>492. <hi>Galatius</hi> ordains, That the Prieſts in Maſs ſtretch out their arms, and hold up their hands; and by Council Enacts Bap<g ref="char:EOLhyphen"/>tiſm to be adminiſtred, but at <hi>Eaſter</hi> and <hi>Whitſuntide,</hi> except need be; and then on new-born Infants; and to be done freely.</p>
+            <p>499. <hi>Simonachus</hi> their laſt Arch-Biſhop, ordered that <hi>Paſcutia's</hi> ſoul be chaſtiſed in Purgatory.</p>
+            <p>Now is ſelf-ſhip grown middle-high, and turned Patriarch.</p>
+            <p>514. <hi>Horneſday</hi> their firſt Patriarch will have no Altar ſet up without a Biſhops conſent.</p>
+            <p>526. <hi>Faelix</hi> 4. and third Patriarch, divi<g ref="char:EOLhyphen"/>ded Church from Chancel.</p>
+            <p>531. <hi>John</hi> 2. wrote for equality of Fa<g ref="char:EOLhyphen"/>ther and Son.</p>
+            <p>534. <hi>Agepetus,</hi> will have people on Sunday follow the Croſs in Proceſſion.</p>
+            <p>537. <hi>Vigillius</hi> their eighth Patriarch, will have Maſſe ſaid with faces Eaſtward.</p>
+            <p>556. <hi>Pelagius</hi> ordains Deriges, and that dayes Mattins for the dead.</p>
+            <p>559. <hi>John</hi> 3. and tenth Patriarch, de<g ref="char:EOLhyphen"/>crees that none have the title of chief, or univerſal Biſhop.</p>
+            <pb n="11" facs="tcp:35099:7"/>
+            <p>591. <hi>Gregory</hi> their 13. Patriarch, ſtiled himſelf, <hi>Servus Servorum,</hi> oppoſed <hi>John</hi> of <hi>Conſtantinople</hi> for claiming title of <hi>
+                  <g ref="char:V">Ʋ</g>niverſall,</hi> yet he hallowed candles, aſhes, and palms, ordained Candlemas day for people to car<g ref="char:EOLhyphen"/>ry lighted candles in, and aſh-wedneſday to be ſprinkled with aſhes, to mind them that they are duſt and aſhes, and to carry palmes on palm-ſunday; he put the <hi>Pater Noſter</hi> to the Maſs, and a candle to burn on the Altar in Maſs-time, held Images to be Lay-mens books, but not to be worſhipped, revoked his Decree againſt Prieſts marri<g ref="char:EOLhyphen"/>age, becauſe 6000. infants skulls were found in a Fiſh-pond: many buds at once, and yet more ſtill; for,</p>
+            <p>604. <hi>Sabian</hi> the laſt Patriarch, decreed bells ringing to gather people to hear Di<g ref="char:EOLhyphen"/>vine Service.</p>
+            <p>And ſelf-ſhip is now grown head-high, and turned Pope.</p>
+            <p>606. <hi>Boniface</hi> 3. and firſt Pope obtai<g ref="char:EOLhyphen"/>ned chiefſhip of the Emperour <hi>Phocas,</hi> and that the Church of <hi>Rome</hi> he recko<g ref="char:EOLhyphen"/>ed the Mother-Church; now begins <hi>we will and command you,</hi> and now <hi>Mahomet</hi> ſchiſmed from him, and joyned with <hi>Ser<g ref="char:EOLhyphen"/>gius</hi> a Monk. Little thought <hi>Phocas</hi> that Emperours would at laſt be ſubject to
+<pb n="12" facs="tcp:35099:8"/> Popes: but more buds yet; for <hi>Boniface</hi> 4. and ſecond Pope, fatted Monks in a Mona<g ref="char:EOLhyphen"/>ſtery for his luſt.</p>
+            <p>614. <hi>Deus dedit</hi> wills Goſſips not to marry, and</p>
+            <p>618. <hi>Boniface</hi> 5. ordains Sanctuary for Men-ſlayers, and that none below a Dea<g ref="char:EOLhyphen"/>con touch Saints reliques: and <hi>Honorius</hi> or<g ref="char:EOLhyphen"/>dains a feaſt for exalting the Croſle.</p>
+            <p>642. <hi>Theodorus</hi> wills none to marry that Maid, to whom his father was God-father: and yet more buddings; for,</p>
+            <p>649. <hi>Martin</hi> the ninth Pope, deckt Churches, appoints more holydayes, and Prieſts to keep ſingle, and ſing Maſs aloud, and no man to lie with his wife, till a Prieſt bleſs them, and hallow their bed.</p>
+            <p>654. <hi>Eugenius</hi> ordered Bps to impriſon bold Prieſts.</p>
+            <p>665. <hi>Vitalian</hi> brought into the Church Organs, and Prick-ſong, and Latine Ser<g ref="char:EOLhyphen"/>vice in <hi>England.</hi>
+            </p>
+            <p>669. <hi>Deo,</hi> or <hi>Theodatus,</hi> hath Maſs ſung in Latine, and debarrs <hi>Ravena</hi> Bps of Chri<g ref="char:EOLhyphen"/>ſtian burial, for not ſtooping to <hi>Romes</hi> Sea.</p>
+            <p>678. Pope <hi>Agatho</hi> ſubjected <hi>Ravena-</hi>Churches, and put out the Bps eyes that withſtood it.</p>
+            <p>683. <hi>Leo</hi> 2. and 15. Pope, oppoſed We<g ref="char:EOLhyphen"/>ſtern Prieſts marriages.</p>
+            <pb n="13" facs="tcp:35099:8"/>
+            <p>684. Pope <hi>Benedict</hi> got the ſtile of <hi>Chriſts Vicar.</hi>
+            </p>
+            <p>688. <hi>Sergius,</hi> or <hi>Swines ſnout,</hi> ſettles Can<g ref="char:EOLhyphen"/>dlemaſs-day Cuſtoms, gets Shrines to put reliques in: and lofty budding yet, for,</p>
+            <p>708. <hi>Conſtantine</hi> permits <hi>Juſtinian</hi> to kiſs his feet.</p>
+            <p>731. <hi>Gregory</hi> 3. decreed that people offer derige groats, and maſs-pence, for their dead friends ſouls, and that Prieſts do pray and ſacrifice for the dead, and that Images be worſhipt.</p>
+            <p>752. <hi>Steven</hi> 2. was the firſt carried on mens ſhoulders.</p>
+            <p>757. Pope <hi>Paul</hi> made legends for Saints, and Service for Lent.</p>
+            <p>767. <hi>Steven</hi> 3. ſetled Image-worſhip.</p>
+            <p>772. <hi>Adrian</hi> the 30. Pope, wrote a Book for Images, and will have Weſtern Chur<g ref="char:EOLhyphen"/>ches put off all faſhions of maſſing, ſave that faſhion that <hi>Gregory</hi> 1. had ordained.</p>
+            <p>792. Pope <hi>Leo</hi> 3. brought up Cen<g ref="char:EOLhyphen"/>ſers.</p>
+            <p>817. <hi>Paſcalis</hi> put Saints reliques to ſale. and <hi>Gregory</hi> 4. wills Prieſts to go homely like Chriſt, without Rings or coſtlineſs.</p>
+            <p>844. <hi>Sergius</hi> 2. the firſt that changed his name for the Popedome, and ſelfſhip is now full crown-high; for,</p>
+            <pb n="14" facs="tcp:35099:9"/>
+            <p>847. <hi>Leo</hi> 4. brought up <hi>Peters</hi> penny, of<g ref="char:EOLhyphen"/>fers Princes his feete to kiſs, lets none come in the Chancel while Maſs is ſaying.</p>
+            <p>855. Pope <hi>Joan,</hi> and 862. <hi>Benedict</hi> 3. gives ſecurity that he is a male, orders the Clergie to be at the burial of Bps, and ſing derige for their ſouls, and Bps to do ſo for the Clergie.</p>
+            <p>864. <hi>Nicholas</hi> complains of neglect in regiſtring Popes, and orders Baptiſm, ad<g ref="char:EOLhyphen"/>miniſtred by pagan or infidel is not null, and that Popes decrees be equall to Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            <p>891. <hi>Formaſus,</hi> and 896. <hi>Steven</hi> 6. took <hi>Formaſus</hi> up, cuts off his conſecrating finger, and caſts him into <hi>Tyber.</hi>
+            </p>
+            <p>910. <hi>Sergius</hi> 3. took him up again, cuts off his other right hand fingers, and caſts him again into <hi>Tyber,</hi> and new ordains whom he ordained.</p>
+            <p>939. <hi>Steven</hi> 8. cuts off mens hands, and pulls out their eyes for inclining to <hi>Otho,</hi> made boys Bps for money, defiled his fa<g ref="char:EOLhyphen"/>thers Concubine, put out his ghoſtly father <hi>Benedicts</hi> eyes, brake windows in the night, ſet houſes on fire, drank healths to Satan; but a reſolute man found him nought with his wife, and diſpatcht him; but,</p>
+            <p>965. <hi>Leo</hi> 8. Crowned <hi>Otho,</hi> and admitted him right to chooſe Popes.</p>
+            <pb n="15" facs="tcp:35099:9"/>
+            <p>965. <hi>John</hi> 14. began to name and bap<g ref="char:EOLhyphen"/>tize bells.</p>
+            <p>999. <hi>Silveſter</hi> 2. and 73 Pope, defeats a <hi>Sarazen</hi> of a conjuring book, agreed with Satan to be wholly his, if he bring him back and promote him: and did return, and taught the black art to <hi>Theophilact, Lawrence, Braeſutus,</hi> and <hi>John Gratian,</hi> by whoſe help he came to be Bp of <hi>Reames,</hi> then Archbp of <hi>Ravena,</hi> and next Pope of <hi>Rome;</hi> uſed the art ſecretly, till asking how long he ſhould live, was told, till he ſaid Maſs at <hi>Jeruſalem;</hi> he thought to live long, but in Lent, ſaid Maſs at St <hi>Croſe</hi> (ſometime called <hi>Jeruſa<g ref="char:EOLhyphen"/>lem)</hi> where Satan ſeiſed on him.</p>
+            <p>1003. <hi>John</hi> 18. made a faſt for all ſouls, took the people from chooſing Popes, ſay<g ref="char:EOLhyphen"/>ing, The people muſt be taught, and not followed: and now <hi>Purgatory</hi> ſprouts a<g ref="char:EOLhyphen"/>pace: for,</p>
+            <p>1003. <hi>John</hi> 19. called alſo <hi>Faſtinus,</hi> is ſaid to raiſe ſouls, and</p>
+            <p>1012. <hi>Benedict</hi> 8 is ſaid to be ſeen a horſ<g ref="char:EOLhyphen"/>back after death, telling a Bp he was tor<g ref="char:EOLhyphen"/>mented, wiſhing that Odels would pray for him, and bad that his brother <hi>John</hi> take a treaſure hid in ſuch a place, and diſtribute it to the poor for his ſoul.</p>
+            <p>
+               <hi>Benedict</hi> 9. made <hi>Lawrence</hi> and <hi>Gratian</hi>
+               <pb n="16" facs="tcp:35099:10"/> (his fellow-conjurers) Cardinals, invo<g ref="char:EOLhyphen"/>cates Satan in a Wood, makes women run after him, was ſelling his Popedome, and in the interim ſteps in <hi>Silveſter;</hi> then <hi>Gregory</hi> gets the keys; three Popes at once, called the twenty ſchiſm; but <hi>Benedict</hi> fled, <hi>Gregory</hi> was baniſht, and <hi>Silveſter</hi> ſtood.</p>
+            <p>1047. <hi>Clement</hi> 2. makes the <hi>Romans</hi> for<g ref="char:EOLhyphen"/>ſwear a right to chooſe Popes; but the Em<g ref="char:EOLhyphen"/>perour quelled him.</p>
+            <p>1049. <hi>Leo</hi> 9. appoints Prieſts to dwell nigh the Church.</p>
+            <p>1075. <hi>Gillibrand,</hi> or <hi>Gregory</hi> 7. and 89. Pope, by cauſing fire to come out of his ſleeve, the people cryed, <hi>Peter</hi> hath choſen <hi>Gillibrand;</hi> he had poyſoned ſix or ſeaven; he decreed that people come not to Maſs empty-handed; he threw the Sacrament in the fire, not anſwering his demands, as the heathen Gods did theirs; he made the Em<g ref="char:EOLhyphen"/>perour and Empereſs in cold weather come barefoot three dayes for audience, yet, at laſt was baniſht, and died miſerably.</p>
+            <p>1088. <hi>
+                  <g ref="char:V">Ʋ</g>rban</hi> 2. excommunicates two Emperours, and <hi>Clement</hi> the Emperours Pope, and the people quarreld which Popes ſide to take; and more buds ſtill; for<g ref="char:punc">▪</g>
+            </p>
+            <p>1110. <hi>Petrus</hi> deviſed beads to ſay their Ladies Pſalter on, and ſetled tithes on the Prieſts; but</p>
+            <pb n="17" facs="tcp:35099:10"/>
+            <p>1119. <hi>Calextus</hi> excommunicates the Emperour, makes his Pope ride backward, excommunicates all Prieſts that took mo<g ref="char:EOLhyphen"/>ney for baptizing or burying.</p>
+            <p>1124. While <hi>Honorius</hi> ſent to forbid Prieſts marriage in <hi>England,</hi> himſelf was found in bed with a ſlut.</p>
+            <p>And ſelfſhip hath over-grown the Em<g ref="char:EOLhyphen"/>pire; for,</p>
+            <p>1154. <hi>Adrian</hi> 4. chid the Emperour for holding the wrong ſtirrup; alſo excommu<g ref="char:EOLhyphen"/>nicated him for writing his own name be<g ref="char:EOLhyphen"/>fore his; he ſeeking admiſſion, <hi>Adrian</hi> ſets his foot on him, and ſaid, <hi>On the Adder thou ſhalt tread,</hi> &amp;c. alſo he made Conſulls powerleſs.</p>
+            <p>1191. <hi>Sileſtin</hi> 3. ſets on the Emperours Crown with his feet, ſaying, <hi>Per<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me regis regnum:</hi> and yet ſelfſhip buds apace, for,</p>
+            <p>1198. <hi>Innocent</hi> 3. ſettles Oricular con<g ref="char:EOLhyphen"/>feſſion, and takes the Cup from the laitie, burnt a hundred in one day, decreed that men believe that the words in their Maſs-Canon were uſed by Chriſt, and are equall to Scripture, and that the Bread and Wine is after conſecration the very fleſh and blood of Chriſt, and not Bread or Wine; that ſins be confeſt to a Prieſt once a year, and if he publiſh their faults, to do pen<g ref="char:EOLhyphen"/>nance
+<pb n="18" facs="tcp:35099:11"/> in a Monaſtery till he die.</p>
+            <p>1216. <hi>Honorius</hi> 3. commands that when the Bread is lift up over the Prieſts head, all people fall down and worſhip it, and that a woman declaring in three years af<g ref="char:EOLhyphen"/>ter marriage, that her husband cannot give her due benevolence, ſhall be ſeparate from him; and</p>
+            <p>1227. <hi>Gregory</hi> 9 orders a ſacring bell to ring while the Prieſts lifts up bread and challice, to ſtir up the people to worſhip it.</p>
+            <p>
+               <hi>Silveſter</hi> 4. was poyſoned, and the place lay voyd 21. weeks.</p>
+            <p>1243. <hi>Innocent</hi> 4. brought in begging Friers, <hi>Dominicans, Carmalites,</hi> and <hi>Au<g ref="char:EOLhyphen"/>ſtines.</hi>
+            </p>
+            <p>1271. <hi>Gregory</hi> 10. held the Holy Ghoſt proceeding from Father and Son, twelve times withſtood before: And yet ſelfſhip buds; for,</p>
+            <p>1275. <hi>Clement</hi> 4. Granted three years pardon to all that could devoutly ſay ſome Latine Horiſms; and</p>
+            <p>1277. <hi>Nicholas</hi> 3. cauſed a maſſacre in <hi>France</hi> by the tole of a bell.</p>
+            <p>1281. <hi>Martin</hi> 4. kept <hi>Nicholaſes</hi> Con<g ref="char:EOLhyphen"/>cubine, and rid from his Palace all pictures of Bears, leaſt ſhe beholding it, bring forth a Bear.</p>
+            <pb n="19" facs="tcp:35099:11"/>
+            <p>1294. <hi>Boniface</hi> 8. is ſaid to enter as a Fox, rule as a Lyon, and die as a Dog, brought in the <hi>Jewes</hi> Jubilee: went one day in Imperial another day in Popes robes, and two Swords carried before him.</p>
+            <p>1316. <hi>John</hi> 22. Sainted <hi>Thomas Aquine,</hi> and in their regiſter was now found 5555. Canonized Saints; he flaid a Bp, and then burnt him, decreed that bels tole every E<g ref="char:EOLhyphen"/>ven, and that people ſtraight-way kneele, and ſay <hi>Avi Maria</hi> three times.</p>
+            <p>1334. <hi>Benedict</hi> 12. gave a great ſum for a woman to make uſe of.</p>
+            <p>1352. <hi>Clement</hi> 7. made a holy day for the Speare that pierced Chriſt.</p>
+            <p>1362. <hi>
+                  <g ref="char:V">Ʋ</g>rban</hi> 6. and 130. Pope, oppo<g ref="char:EOLhyphen"/>ſed <hi>France,</hi> and they choſe <hi>Clement,</hi> which ſchiſm laſted nigh forty years; <hi>Clement</hi> plundred <hi>Rome,</hi> and one Popes Buls roared againſt the other.</p>
+            <p>1389. <hi>Boniface</hi> 9. could not ſing or ſay, nor underſtand what was diſcuſt before him, but could admit dolts for money.</p>
+            <p>1406. <hi>Benedict</hi> ſucceeds <hi>Clement.</hi>
+            </p>
+            <p>1417. In <hi>Martin</hi> the fifth's time, a Coun<g ref="char:EOLhyphen"/>ſel was decreed above a Pope.</p>
+            <p>1447. <hi>Nicholas</hi> 5. Celebrates a Jubilee, in which Croud were 136. ſlain: and now the <hi>Turks</hi> took <hi>Conſtantinople.</hi>
+            </p>
+            <pb n="20" facs="tcp:35099:12"/>
+            <p>1458. <hi>Pius</hi> 2. would have Prieſts to marry.</p>
+            <p>1464. <hi>Paul</hi> 2. had Jewels for his Dia<g ref="char:EOLhyphen"/>dem.</p>
+            <p>1470. <hi>Sextus</hi> 4 covered his concubines ſhooes with pearl, built Stewes in <hi>Rome,</hi> which brought him in yearly 2000. duc<g ref="char:EOLhyphen"/>kets, he granted St <hi>Lucy</hi> a Cardinal to uſe unnaturall luſts, each <hi>June, July,</hi> and <hi>Au<g ref="char:EOLhyphen"/>guſt.</hi>
+            </p>
+            <p>1492. <hi>Alexander</hi> 6. Plagued them that choſe him, heapt up for his baſtards, be<g ref="char:EOLhyphen"/>trayed his brother for money to a <hi>Turk,</hi> lay with his own daughter, gave himſelf to Satan, &amp;c.</p>
+            <p>1503. <hi>Julius</hi> 2. better at warr than preaching, diſpenced with our <hi>Henry,</hi> who married his brothers wife, bugger'd two youths, Sainted mother <hi>Frances</hi> for pre<g ref="char:EOLhyphen"/>ſerving her chaſtity with melted lard.</p>
+            <p>1512. <hi>Leo</hi> 10. told a Cardinal, that Chriſtianity was a profitable fable: in ma<g ref="char:EOLhyphen"/>king thirty Cardinals, a tempeſt roſe, and ſtruck the keys out of his hand, and Chriſts Statue out of his mothers armes: for being ſtiled <hi>the Lion of the Tribe of Judas, Luther</hi> ſell from him.</p>
+            <p>1524. <hi>Paul</hi> 3. uſed his own ſiſter, alſo his own daughter, and poyſoned her huſ<g ref="char:EOLhyphen"/>band,
+<pb n="21" facs="tcp:35099:12"/> but preſſing on his Neece, her hus<g ref="char:EOLhyphen"/>band taking him in the act, gave him a mark that ſtuck to him till death.</p>
+            <p>1550. <hi>Julius</hi> 3. buggered a boy, and gave him a Cardinals Cap; his Cardinals asking his reaſon for it, asked them, <hi>What reaſon they had to make him Pope?</hi> (in his time <hi>John Caſſa</hi> printed a Book to maintain So<g ref="char:EOLhyphen"/>domy; and <hi>Francis Spira</hi> revolted) he ſaid, <hi>He had more cauſe of anger, for keeping back his cold Peacock, than God had to caſt Adam out of Paradiſe for eating of an Apple.</hi> He gave the Mothers Bleſſing in Queen <hi>Marye's</hi> dayes.</p>
+            <p>1555. <hi>Marcellus</hi> 2. counts <hi>Luther</hi> worſe than a <hi>Turk,</hi> diſcharged one Bp. for hold<g ref="char:EOLhyphen"/>ing Scripture above Traditions; and ano<g ref="char:EOLhyphen"/>ther, for ſaying the Council was above the Pope.</p>
+            <p>1555. <hi>Paul</hi> 4. had ſtoutly oppoſed abu<g ref="char:EOLhyphen"/>ſes, but the caſe is altered, he patronized <hi>Jeſuites,</hi> and the Inquiſition.</p>
+            <p>1560. <hi>Paul</hi> 5. inſtitutes that an Oath be not kept with Heretiques.</p>
+            <p>1572. <hi>Greg.</hi> 13. had a maſſacre in <hi>France</hi> celibrated with triumph at <hi>Rome,</hi> the Governour of <hi>Malti</hi> ſang to him, <hi>For mine eyes have ſeen thy ſalvation.</hi>
+            </p>
+            <p>1580. <hi>Sextus</hi> 5. excommunicated <hi>Henry</hi>
+               <pb n="22" facs="tcp:35099:13"/> of <hi>France,</hi> praiſed a <hi>Monk</hi> that killed him, comparing the act to the work of Creation, and Incarnation, and without ſucceſs, bleſt <hi>Spains</hi> Banner againſt <hi>England.</hi>
+            </p>
+            <p>More Popes have been, and more theſe Popes did, enough to tire the Reader; as is ſhown in my chief Authors, <hi>Thomas Becons</hi> Collection, dedicated to <hi>Francis</hi> Earl of <hi>Bedford,</hi> one of Queen <hi>Elizabeths</hi> Privy Council.</p>
+            <p>And in an Introduction to the reading of Hiſtoryes, out of the writings of <hi>Mat<g ref="char:EOLhyphen"/>thias Prideaux,</hi> ſometime Fellow of <hi>Exeter</hi> Colledge. But this is the poor mans penny, and enough to teach us to avoid ſelf-ſhip.</p>
+            <p>From what is written, I ask,</p>
+            <p n="1">1. <hi>Why have Popes hundreds of Ordinances that Chriſt commanded not? Was it from Chriſts ignorance, or unfaithfulneſſe, or from Popes arro<g ref="char:EOLhyphen"/>gancies?</hi>
+            </p>
+            <p n="2">2. <hi>Is their pretended ſucceſſion a vain notion? or have they had no Church or Miniſtry, ſince the place lay 21 weeks void.</hi>
+            </p>
+            <p n="3">3. <hi>Is that Body a Monſter, or no? that hath ſometime a Male, ſometime a Female? ſometime one, ſometime two, ſometime three heads?</hi>
+            </p>
+            <p n="4">4. <hi>How are they infallible, ſith ſome Popes and Conſuls too, oppoſe what others maintain, and build what others pull down?</hi>
+            </p>
+            <p n="5">
+               <pb n="23" facs="tcp:35099:13"/>5. <hi>How are they Catholique? whoſe Daugh<g ref="char:EOLhyphen"/>ter Mahomet hath more children than ſhe.</hi>
+            </p>
+            <p n="6">6. <hi>Where is their antiquity? ſith by their Re<g ref="char:EOLhyphen"/>giſter, Biſhops were five hundred years older than Popes?</hi> Proteſtants ſay they, <hi>began with Luther;</hi> but they know that the way of Proteſtants was long before Popedome, though not called Proteſtants, till they proteſted againſt Popes novelties.</p>
+            <p n="7">7. <hi>How can they know what Religion they are of, ſith Popes alter and adde what they pleaſe; and who knows the next Popes faſhion?</hi>
+            </p>
+            <p n="8">8. <hi>Why ſhould their Deerees be equal to Scrip<g ref="char:EOLhyphen"/>ture, ſith themſelves heretofore held otherwiſe?</hi>
+            </p>
+            <p n="9">9. <hi>Was that conſecrated Wine, the very vein-blood of Chriſt, which poiſoned Pope Victor?</hi>
+            </p>
+            <p n="10">10. <hi>Did the Bell that tolled for a maſſacre, drive away the Devil?</hi>
+            </p>
+            <p n="11">11. <hi>If Biſhops be not like Chriſt, except they go homely, who are Popes like that wear Jewels?</hi> &amp;c.</p>
+            <p n="12">12. <hi>Have the worſt of Heathens exceeded Popes in idolatry, murther, whoredome, buggery, or witch-craft?</hi> &amp;c.</p>
+            <p n="13">13. <hi>Who can beſt judge of the ſence of Scrip<g ref="char:EOLhyphen"/>ture, whether ambitious Popes, or humble lay<g ref="char:EOLhyphen"/>men?</hi> Pſ. 25.</p>
+            <p n="14">14. <hi>How ſit they in Peters Chair?</hi> For 1. Their firſt Bp. <hi>Linus</hi> was mounted two
+<pb n="24" facs="tcp:35099:14"/> years before <hi>Peter</hi> dyed. 2. <hi>Peter</hi> had a wife, but they muſt have none. 3. <hi>Peter</hi> beat down that Lordſhip which they have. 4. <hi>Peter</hi> had learnt of his Maſter to ſheath the Sword, but they are bloody. 5. <hi>Peter</hi> for Conſcience God-ward, ſubmitted to Powers, but they haſtened to over-top Kings, and Emperours. In a word, <hi>Peter</hi> was the <hi>Jews</hi> Apoſtle, and <hi>Paul</hi> to the <hi>Ro<g ref="char:EOLhyphen"/>mans,</hi> Rom. 11. 13.</p>
+         </div>
+         <div type="part">
+            <head>A Loving Advice.</head>
+            <p>COurteous Reader, whether <hi>Papiſt, Pro<g ref="char:EOLhyphen"/>teſtant, Presbyterian, Independant, Qua<g ref="char:EOLhyphen"/>ker,</hi> or <hi>Baptist,</hi> 'tis thy eternal good I aim at; and ſo doth God alſo: for, <hi>He deſires not the death of him that dyeth, but rather that all would repent, that they might be ſaved,</hi> Ezek. 18. 23, 30, 31, 32. 2 <hi>Pet.</hi> 3. 9. There<g ref="char:EOLhyphen"/>fore be timely adviſed,</p>
+            <p>1. Not to take mans Traditions, for Chriſts Commands; laying on of hands cannot make a Youth an Elder, nor con<g ref="char:EOLhyphen"/>firm in Chriſt, the baptized perſon. If <hi>Paul (Jew-</hi>like) circumciſed, and laid hands on <hi>Timothy,</hi> purified himſelf, vowed, &amp;c. it
+<pb n="25" facs="tcp:35099:14"/> was beyond Chriſts command, and before himſelf was perfected; for afterward, he yeelded not a jot to ſuch <hi>Jewiſh</hi> Ceremo<g ref="char:EOLhyphen"/>nies, <hi>Gal.</hi> 2. 3, 4, 5.</p>
+            <p>Salted water, a Bell tolling, or a mans breath, cannot drive away Satan, a Popes three years pardon avails not. Chriſt hath hallowed no day, ſave that which follow<g ref="char:EOLhyphen"/>eth our ſix dayes labour; Popes hallowing of garments, perſons, places, or times, is not worth a ſtraw.</p>
+            <p>Plot not againſt Powers, but obey them in all things lawfull; ſubmit to them in eve<g ref="char:EOLhyphen"/>ry thing, revile them not, reſiſt them not; for, if thou doſt, thou art condemned of God, <hi>Rom.</hi> 13. 1 <hi>Pet.</hi> 2. 13, 14. &amp; 2 <hi>Pet.</hi> 2. 10.</p>
+            <p>Chriſts pure Ordinances, are but as Shells, and perfect purity is the Kernel? for preaching, and Church-meeting, yea, the gift of Prophets, Apoſtles, Goſpeliſers, or Teachers, is for this end given, to make men perfect, to bring them to the ſame ful<g ref="char:EOLhyphen"/>neſſe that is in Chriſt, <hi>Col.</hi> 1. 28. <hi>Eph.</hi> 4. 11, 12, 13. Therefore</p>
+            <p>Rule not over mens faith, 2 <hi>Cor.</hi> 1. 24. Impriſon not, kill not, fight not for ſhells, much leſſe for mens inventions, which are but ſhaddows of ſhells; for carnal fight<g ref="char:EOLhyphen"/>ing
+<pb n="26" facs="tcp:35099:15"/> bereaves (not others, but) thy ſelf of the kernel, which is <hi>righteouſneſſe,</hi> for thy Iuſt cauſeth it, <hi>James</hi> 4. 1. And</p>
+            <p>Chriſts thouſand years Reign will not be ſet up by mans weapons; but the Lord will ſhortly and totally end warrs and Warriers in the valley of <hi>Jehoſhaphat,</hi> Joel 3. 10, 11, 12. He that kills with the Sword, ſhall ſurely periſh (if repentance prevent not.)</p>
+            <p>Secondly, Yet ſlight not Chriſts pure Ordinances, for the Pearl is to be found there; buy the Field for the Pearls ſake; let Ordinances be as the one thing needful, thereby to enjoy the Lords beauty, to wit, <hi>righteouſneſſe,</hi> Pſal. 27. 4.</p>
+            <p>Thirdly, Yet reſt not (as many do) in the bare purchaſe of the field, but therein dig for the Pearl; the form of Godlineſſe without the power (that is, the practiſe of <hi>Righteouſneſſe)</hi> avails not To conclude.</p>
+            <p>To make ſure work for eternity, keep the Ten Commands, <hi>Matth.</hi> 19. 17. <hi>Rev.</hi> 22. 14. <hi>Rom.</hi> 13. 8, 9. And uſe Ordinan<g ref="char:EOLhyphen"/>ces. Baptiſme is one part of righteouſneſs, <hi>Matth.</hi> 3. And they that are one bread with Chriſt, are to eat of the Bread, and drink of the Cup, which Diſciples are (in Chriſts name) to bleſſe, <hi>&amp;c.</hi> 1 <hi>Cor.</hi> 10. 16, 17.</p>
+            <pb n="27" facs="tcp:35099:15"/>
+            <p>Therefore truſt not to bare believing, (though thou believeſt truth, (which few do) but to thy belief, adde all vertue, and therein abound, and thou wilt not miſcar<g ref="char:EOLhyphen"/>ry, <hi>Pſal.</hi> 15. &amp; 2 <hi>Pet.</hi> 1. 5, 6, 7, 8. Which is the deſire of thy Friend,</p>
+            <closer>
+               <signed>T. K.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>WOuldſt thou live long, and ſee good days?</l>
+               <l>From evil ſpeeches ceaſe.</l>
+               <l>Shun all evil, do good alwayes,</l>
+               <l>And follow after peace.</l>
+            </lg>
+            <lg>
+               <l>Gods eye is on the Juſt, his ear</l>
+               <l>Is open to their cry;</l>
+               <l>And who will harm you if your care</l>
+               <l>Be to walk uprightly.</l>
+            </lg>
+            <lg>
+               <l>And whoſo ſuffers for his ſin,</l>
+               <l>Although he patient be,</l>
+               <l>Doth not from God acceptance win,</l>
+               <l>No thank thereby gets he.</l>
+            </lg>
+            <lg>
+               <l>But he that ſmarts for ſhunning ill,</l>
+               <l>And patiently it bears,</l>
+               <l>Acceptance hath from God, who will</l>
+               <l>Bottle up all his tears.</l>
+            </lg>
+            <lg>
+               <pb n="28" facs="tcp:35099:16"/>
+               <l>For Chriſt, who dyed for me and thee,</l>
+               <l>Did no ſin, ſpake no guile;</l>
+               <l>When ſinners did revile him, he</l>
+               <l>Did not again revile.</l>
+            </lg>
+            <lg>
+               <l>His righteous cauſe he did commit,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto the righteous judge,</l>
+               <l>And herein was a pattern fit,</l>
+               <l>From which we ſhould not budge.</l>
+            </lg>
+            <lg>
+               <l>How apt is man, if wrong'd he be,</l>
+               <l>With vengeance to repay?</l>
+               <l>Il'e uſe him, as he uſed me,</l>
+               <l>Thus they do boldly ſay.</l>
+            </lg>
+            <lg>
+               <l>And by this means blood toucheth blood,</l>
+               <l>And murthers do encreaſe;</l>
+               <l>Yet each ſide ſaith, My cauſe is good;</l>
+               <l>I follow after peace.</l>
+            </lg>
+            <lg>
+               <l>But man forgets that God alone</l>
+               <l>Will the avenger be;</l>
+               <l>Whoſe work it is for to repay,</l>
+               <l>For all hearts ſeeth he.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
